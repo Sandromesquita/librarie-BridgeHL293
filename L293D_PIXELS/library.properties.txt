@@ -1,0 +1,7 @@
+name = L293D_PIXELS
+versão = 1.0.0
+author=Eduardo Moraes
+mantenedor = Sandro Mesquita <sandromesquita@pixelsescola.com>
+sentence = Esta biblioteca permite conntrolar quatro motores CC
+url=http://roboticmente.blogspot.com/
+architectures=avr
